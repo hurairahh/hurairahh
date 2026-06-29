@@ -49,23 +49,24 @@ When I am not writing Terraform configs or tweaking automated pipelines, you'll 
 apiVersion: devops.hurairah.io/v1alpha1
 kind: Engineer
 metadata:
-  name: abu-hurairah
+  name: Abu-Hurairah
   namespace: production
   labels:
-    role: devops-mlops-engineer
+    role: DevOps-Engineer
     cloud-enthusiast: "true"
 spec:
   pronouns: he/him
   currentFocus:
     projectType: "AI-powered DevOps & MLOps Pipelines"
-    learning: "Advanced cloud scaling & security patterns"
+    learning: MLOps
   philosophies:
     - "Infrastructure as Code always"
     - "If you do it twice, automate it"
     - "Fail fast, recover faster (self-healing)"
   interests:
     literature: "Fyodor Dostoevsky (Crime and Punishment, Brothers Karamazov)"
-    hobbies: ["Movies", "Music", "Deep Existential Pondering"]
+    hobbies: ["Movies", "Music", "Existential Pondering"]
+    Fav Movies: ["About Time", "The Before Trilogy", "The Apartment", "Roman Holidau"]
   status:
     ready: true
     healthy: true
