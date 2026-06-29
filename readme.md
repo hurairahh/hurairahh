@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%9A%99%EF%B8%8F;Automating+AI+%26+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%9A%99%EF%B8%8F;I+also+build+web+applications+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -60,18 +60,6 @@ spec:
     monitoring: active
 ```
 
-### 💻 Pipeline Terminal Output
-
-```bash
-$ hurairahh-pipeline --run --env=production
-
-▸ [1/4] 🚀 Initializing Abu Hurairah's profile... [OK]
-▸ [2/4] 🛠️ Spinning up Kubernetes clusters & Terraform plans... [OK]
-▸ [3/4] 🧠 Training & tracking models with MLflow & PyTorch... [OK]
-▸ [4/4] 📚 Loading "Dostoevsky philosophy" package into brain... [OK]
-
-✔ System status: Active, stable, and ready to deploy!
-```
 ---
 
 ### ⚡ Tech Stack
@@ -184,9 +172,8 @@ $ hurairahh-pipeline --run --env=production
 ---
 
 ## 💡 What I'm Working On
-
-🔭 Building **scalable web applications** using modern tech stacks  
-🌱 Learning **Kubernetes** and **advanced AWS services**  
+ 
+🌱 Learning **MLOps** and **advanced AWS services**  
 👯 Looking to collaborate on **open source projects**  
 🎯 Focusing on **DevOps automation** and **CI/CD pipelines**  
 📚 Exploring **microservices architecture** and **serverless computing**
