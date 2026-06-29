@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Hurairah's DevOps & MLOps Banner" width="100%">
-</p>
-
-<h1 align="center">Hi there, I'm Abu Hurairah! 👋</h1>
-
-<p align="center">
-  <b>DevOps & MLOps Engineer | AI Explorer </b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abu+Hurairah!+%F0%9F%91%8B;DevOps+%26+MLOps+Engineer+%E2%9A%99%EF%B8%8F;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -19,24 +15,54 @@
 
 ---
 
-### 🌌 About Me
+### 📂 spec.yaml
 
-> *“But to go wrong in one's own way is better than to go right in someone else's.”*  
-> — **Fyodor Dostoevsky, Crime and Punishment**
+```yaml
+apiVersion: devops.hurairah.io/v1alpha1
+kind: Engineer
+metadata:
+  name: abu-hurairah
+  namespace: production
+  labels:
+    role: devops-mlops
+    ai-enthusiast: "true"
+spec:
+  pronouns: he/him
+  currentFocus:
+    projectType: "AI-powered DevOps & MLOps Pipelines"
+    learning: "MLOps patterns & feature stores"
+  philosophies:
+    - "Infrastructure as Code always"
+    - "If you do it twice, automate it"
+    - "Fail fast, recover faster (self-healing)"
+  interests:
+    literature: "Fyodor Dostoevsky (Crime and Punishment, Brothers Karamazov)"
+    hobbies: ["Movies", "Music", "Deep Existential Pondering"]
+  status:
+    ready: true
+    healthy: true
+    monitoring: active
+```
 
-I am a **DevOps Engineer** focused on building resilient infrastructure, stable automation pipelines, and bridging the gap between operations and machine learning. Currently, I am diving deep into **MLOps** and building **AI-powered DevOps** architectures to make deployments smarter, faster, and more self-healing.
+---
 
-- 🤖 **Current Focus:** Creating intelligent DevOps projects and automating model training/deployment loops.
-- 🧠 **Learning:** MLOps design patterns, feature stores, and orchestrating models at scale.
-- ⚙️ **Philosophy:** Keep code modular, pipelines fast, and infrastructure immutable.
+### ⚙️ My Deployment Lifecycle (CI/CD Pipeline)
+
+```text
+[ Plan & Code ] ──> [ CI/CD Automation ] ──> [ Artifact Containerization ] ──> [ Orchestration ] ──> [ Monitoring & Feedback ]
+       │                     │                           │                           │                         │
+   ┌───┴───┐             ┌───┴───┐                   ┌───┴───┐                   ┌───┴───┐                 ┌───┴───┐
+   │ Python│             │GitHub │                   │ Docker│                   │ AWS / │                 │Grafana│
+   │ Bash  │             │Actions│                   │ Helm  │                   │ K8s   │                 │Prom   │
+   └───────┘             └───────┘                   └───────┘                   └───────┘                 └───────┘
+```
 
 ---
 
 ### 🛠️ Tech Stack & Toolbox
 
-<details open>
-<summary><b>☁️ Cloud & Orchestration</b></summary>
-<p>
+#### ☁️ Cloud & Infrastructure
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -44,31 +70,31 @@ I am a **DevOps Engineer** focused on building resilient infrastructure, stable 
   <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Helm-0F162D?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 </p>
-</details>
 
-<details open>
-<summary><b>⚙️ CI/CD & Scripting</b></summary>
-<p>
+#### ⚙️ CI/CD & Automation
+<p align="left">
   <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
-</details>
 
-<details open>
-<summary><b>🧠 MLOps & AI Infrastructure</b></summary>
-<p>
+#### 🧠 MLOps & AI Infrastructure
+<p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/mlflow-%23d9eff7.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="MLflow" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
 </p>
-</details>
 
 ---
 
-### 🎨 Beyond the Terminal
+### 🌌 Beyond the Terminal
+
+> *“But to go wrong in one's own way is better than to go right in someone else's.”*  
+> — **Fyodor Dostoevsky, Crime and Punishment**
+
+<br>
 
 | 📚 Reading | 🎬 Movies | 🎵 Music |
 | :---: | :---: | :---: |
@@ -79,12 +105,12 @@ I am a **DevOps Engineer** focused on building resilient infrastructure, stable 
 ### 📊 GitHub Stats & Consistency
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurairahh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurairahh&theme=dracula" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hurairahh&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurairahh&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hurairahh&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurairahh&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
 </p>
 
 ---
