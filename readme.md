@@ -112,8 +112,9 @@ $ hurairahh-pipeline --run --env=production
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
-<h4 align="center">🛡️ Quality Gates & Security</h4>
+<h4 align="center">🛡️ Secrets Management, Security & Quality</h4>
 <p align="center">
+  <a href="https://www.vaultproject.io" target="_blank"><img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault" /></a>
   <a href="https://www.sonarqube.org" target="_blank"><img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" /></a>
   <a href="https://sonarcloud.io" target="_blank"><img src="https://img.shields.io/badge/SonarCloud-%23F3702A.svg?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" /></a>
   <a href="https://www.sonatype.com" target="_blank"><img src="https://img.shields.io/badge/Sonatype_Nexus-%233F5B75.svg?style=for-the-badge&logo=sonatype&logoColor=white" alt="Sonatype Nexus" /></a>
