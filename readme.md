@@ -152,13 +152,6 @@ spec:
   <a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
 </p>
 
-<h4 align="center">💻 Operating Systems & Web Servers</h4>
-<p align="center">
-  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
-  <a href="https://httpd.apache.org" target="_blank"><img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" /></a>
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
