@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+%26+MLOps+Engineer+%E2%9A%99%EF%B8%8F;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+%26+Engineer+%E2%9A%99%EF%B8%8F;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,12 +19,15 @@
 
 ### 🌌 Bio
 
-I am a **DevOps & MLOps Engineer & Cloud Enthusiast** who loves building resilient infrastructure and automating intelligent, AI-powered deployment lifecycles. 
+I am a **DevOps Engineer and Cloud Enthusiast** who loves building resilient infrastructure and automating intelligent, AI-powered deployment lifecycles. Currently exploring the intersection of DevOps and ML through MLOps. I'm always listening to music while creating and building. 
 
 When I am not writing Terraform configs or tweaking automated pipelines, you'll find me:
-- 🎬 Devouring thought-provoking movies
-- 🎧 Listening to music
+- 🎬 Devouring movies
 - 📚 Pondering Fyodor Dostoevsky's literature
+
+
+> *“But to go wrong in one's own way is better than to go right in someone else's.”*  
+> — **Fyodor Dostoevsky, Crime and Punishment**
 
 ---
 
@@ -190,13 +193,6 @@ $ hurairahh-pipeline --run --env=production
 
 ---
 
-### 🌌 Beyond the Terminal
-
-> *“But to go wrong in one's own way is better than to go right in someone else's.”*  
-> — **Fyodor Dostoevsky, Crime and Punishment**
-
----
-
 <p align="center">
   <table>
     <thead>
@@ -220,5 +216,5 @@ $ hurairahh-pipeline --run --env=production
 ---
 
 <p align="center">
-  <sub>Feel free to reach out if you want to chat about cloud architectures, model serving at scale, or classic literature!</sub>
+  <sub>Feel free to reach out if you want to chat about cloud architectures, model serving at scale, or gossip about Moviessssss!!!!!!!!!!!</sub>
 </p>
