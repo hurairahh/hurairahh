@@ -10,6 +10,12 @@
   <a href="https://linkedin.com/in/thehurairah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://letterboxd.com/YOUR_LETTERBOXD_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Letterboxd-14181C?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+  </a>
   <a href="mailto:hello.hurairah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
