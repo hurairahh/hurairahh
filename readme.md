@@ -203,19 +203,6 @@ $ hurairahh-pipeline --run --env=production
 
 ---
 
-### 📊 GitHub Stats & Consistency
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurairahh&theme=dracula" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hurairahh&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurairahh&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <p align="center">
   <sub>Feel free to reach out if you want to chat about cloud architectures, model serving at scale, or classic literature!</sub>
 </p>
