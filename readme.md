@@ -144,6 +144,52 @@ $ hurairahh-pipeline --run --env=production
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=WaqarHassan20&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)](https://git.io/streak-stats)
+
+### 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/WaqarHassan20" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WaqarHassan20&theme=tokyonight" alt="GitHub Profile Details" />
+  </a>
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WaqarHassan20&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WaqarHassan20&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 🐍 GitHub Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WaqarHassan20/WaqarHassan20/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WaqarHassan20/WaqarHassan20/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WaqarHassan20/WaqarHassan20/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+### 📊 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WaqarHassan20&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true)
+
+</div>
+
+<div align="center">
+
+---
+
+## 💡 What I'm Working On
+
+🔭 Building **scalable web applications** using modern tech stacks  
+🌱 Learning **Kubernetes** and **advanced AWS services**  
+👯 Looking to collaborate on **open source projects**  
+🎯 Focusing on **DevOps automation** and **CI/CD pipelines**  
+📚 Exploring **microservices architecture** and **serverless computing**
+
+---
+
 ### 🌌 Beyond the Terminal
 
 > *“But to go wrong in one's own way is better than to go right in someone else's.”*  
