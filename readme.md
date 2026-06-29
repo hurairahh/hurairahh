@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Orchestrating+AI+brains+in+production+%F0%9F%A7%A0;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+%26+MLOps+Engineer+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ### 🌌 Bio
 
-I am a **DevOps Engineer & Cloud Enthusiast** who loves building resilient infrastructure. Currently, I am focusing on **MLOps**—specifically, *teaching neural networks how to navigate Kubernetes and scale gracefully in production*. 
+I am a **DevOps & MLOps Engineer & Cloud Enthusiast** who loves building resilient infrastructure and automating intelligent, AI-powered deployment lifecycles. 
 
 When I am not writing Terraform configs or tweaking automated pipelines, you'll find me:
 - 🎬 Devouring thought-provoking movies
@@ -37,14 +37,13 @@ metadata:
   name: abu-hurairah
   namespace: production
   labels:
-    role: devops-engineer
+    role: devops-mlops-engineer
     cloud-enthusiast: "true"
-    mlops-learner: "true"
 spec:
   pronouns: he/him
   currentFocus:
     projectType: "AI-powered DevOps & MLOps Pipelines"
-    learning: "Teaching neural networks how to navigate Kubernetes & scale gracefully"
+    learning: "Advanced cloud scaling & security patterns"
   philosophies:
     - "Infrastructure as Code always"
     - "If you do it twice, automate it"
