@@ -19,7 +19,7 @@
 
 ### 🌌 About Me
 
-I am a **DevOps Engineer and Cloud Enthusiast** Currently exploring the intersection of DevOps and ML through **MLOps**. I'm always listening to music while creating and building. 
+I am a **DevOps Engineer and Cloud Enthusiast** currently exploring the intersection of DevOps and ML through **MLOps**. I'm always listening to music while creating and building. 
 
 I enjoy working at the intersection of automation, cloud platforms, container orchestration, and reliability engineering.
 
@@ -70,24 +70,26 @@ spec:
 
 ### ⚡ Tech Stack
 
-<h4 align="center">⚙️ Programming Languages</h4>
+<h4 align="center">⚙️ Languages & Scripting</h4>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
 </p>
 
-<h4 align="center">🎨 Frontend Technologies</h4>
+<h4 align="center">🎨 Frontend & UI</h4>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
   <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-%237909F5.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
   <a href="https://ui.shadcn.com" target="_blank"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" /></a>
 </p>
 
-<h4 align="center">🖥️ Backend Technologies</h4>
+<h4 align="center">🖥️ Backend & API Development</h4>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
@@ -95,13 +97,14 @@ spec:
   <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
 </p>
 
-<h4 align="center">🗄️ Databases</h4>
+<h4 align="center">🗄️ Databases & Caching</h4>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
 </p>
 
-<h4 align="center">☁️ Cloud Providers</h4>
+<h4 align="center">☁️ Cloud & CDN Providers</h4>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
@@ -109,7 +112,7 @@ spec:
   <a href="https://www.cloudflare.com" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
 </p>
 
-<h4 align="center">🏗️ Infrastructure as Code (IaC) & Configuration</h4>
+<h4 align="center">🏗️ Infrastructure as Code & Configuration</h4>
 <p align="center">
   <a href="https://www.terraform.io" target="_blank"><img src="https://img.shields.io/badge/Terraform-%237F4CC4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /></a>
   <a href="https://www.vagrantup.com" target="_blank"><img src="https://img.shields.io/badge/Vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant" /></a>
@@ -130,7 +133,7 @@ spec:
   <a href="https://www.gitops.tech" target="_blank"><img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="GitOps" /></a>
 </p>
 
-<h4 align="center">🔄 CI/CD & Version Control</h4>
+<h4 align="center">🔄 CI/CD & Automation</h4>
 <p align="center">
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
   <a href="https://gitlab.com" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
@@ -140,7 +143,7 @@ spec:
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
-<h4 align="center">🛡️ Secrets Management, Security & Quality</h4>
+<h4 align="center">🛡️ Secrets & Code Quality</h4>
 <p align="center">
   <a href="https://www.vaultproject.io" target="_blank"><img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault" /></a>
   <a href="https://www.sonarqube.org" target="_blank"><img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" /></a>
@@ -154,15 +157,8 @@ spec:
   <a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
 </p>
 
-<h4 align="center">⚡ Caching</h4>
+<h4 align="center">💻 Operating Systems & Web Servers</h4>
 <p align="center">
-  <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
-</p>
-
-<h4 align="center">💻 Scripting, OS & Web Servers</h4>
-<p align="center">
-  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
-  <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
   <a href="https://httpd.apache.org" target="_blank"><img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" /></a>
