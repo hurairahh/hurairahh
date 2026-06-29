@@ -19,11 +19,17 @@
 
 ### 🌌 About Me
 
-I am a **DevOps Engineer and Cloud Enthusiast** who loves building resilient infrastructure and automating intelligent, AI-powered deployment lifecycles. Currently exploring the intersection of DevOps and ML through MLOps. I'm always listening to music while creating and building. 
+I am a **DevOps Engineer and Cloud Enthusiast** Currently exploring the intersection of DevOps and ML through **MLOps**. I'm always listening to music while creating and building. 
+
+I enjoy working at the intersection of automation, cloud platforms, container orchestration, and reliability engineering.
+
+My focus is building systems that deploy faster, scale reliably, and recover automatically.
+
+I also build web applications. 
 
 When I am not writing Terraform configs or tweaking automated pipelines, you'll find me:
-- 🎬 Devouring movies
-- 📚 Pondering Fyodor Dostoevsky's literature
+- 🎬 Watching movies
+- 📚 Reading Dostoevsky
 
 
 > *“But to go wrong in one's own way is better than to go right in someone else's.”*  
