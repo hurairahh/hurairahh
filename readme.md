@@ -25,13 +25,13 @@
 
 ### 🌌 About Me
 
-I am a **DevOps Engineer and Cloud Enthusiast** currently exploring the intersection of DevOps and ML through **MLOps**. I'm always listening to music while creating and building. 
-
-I enjoy working at the intersection of automation, cloud platforms, container orchestration, and reliability engineering.
+I am a **DevOps Engineer and Cloud Enthusiast** currently exploring the intersection of DevOps and ML through **MLOps**.  I enjoy working at the intersection of automation, cloud platforms, container orchestration, and reliability engineering.
 
 My focus is building systems that deploy faster, scale reliably, and recover automatically.
 
 I also build web applications and design (UIUX Designer).
+
+I'm always listening to music while creating and building. 
 
 When I am not writing Terraform configs or tweaking automated pipelines, you'll find me:
 - 🎬 Watching movies
