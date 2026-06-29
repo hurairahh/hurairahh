@@ -207,5 +207,5 @@ $ hurairahh-pipeline --run --env=production
 ---
 
 <p align="center">
-  <sub>Feel free to reach out if you want to chat about cloud architectures, model serving at scale, or gossip about Moviessssss!!!!!!!!!!!</sub>
+  💬 <b>Feel free to reach out if you want to chat about cloud architectures, model serving at scale, or gossip about Moviessssss!!!!!!!!!!!</b>
 </p>
