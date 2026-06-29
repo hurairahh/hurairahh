@@ -79,8 +79,7 @@ $ hurairahh-pipeline --run --env=production
   <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
   <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
-  <a href="https://www.pulumi.com" target="_blank"><img src="https://skillicons.dev/icons?i=pulumi" alt="Pulumi" /></a>
-  <a href="https://www.digitalocean.com" target="_blank"><img src="https://skillicons.dev/icons?i=do" alt="DigitalOcean" /></a>
+  <a href="https://www.digitalocean.com" target="_blank"><img src="https://skillicons.dev/icons?i=digitalocean" alt="DigitalOcean" /></a>
   <a href="https://www.cloudflare.com" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
 </p>
 
@@ -88,9 +87,7 @@ $ hurairahh-pipeline --run --env=production
 <p align="center">
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
-  <a href="https://helm.sh" target="_blank"><img src="https://skillicons.dev/icons?i=helm" alt="Helm" /></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
-  <a href="https://httpd.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=apache" alt="Apache" /></a>
 </p>
 
 <h4 align="center">🔄 CI/CD & Automation</h4>
