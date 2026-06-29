@@ -70,6 +70,37 @@ spec:
 
 ### ⚡ Tech Stack
 
+<h4 align="center">⚙️ Programming Languages</h4>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+</p>
+
+<h4 align="center">🎨 Frontend Technologies</h4>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-%237909F5.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
+  <a href="https://ui.shadcn.com" target="_blank"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" /></a>
+</p>
+
+<h4 align="center">🖥️ Backend Technologies</h4>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://bun.sh" target="_blank"><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" /></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+</p>
+
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+</p>
+
 <h4 align="center">☁️ Cloud Providers</h4>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
@@ -123,15 +154,13 @@ spec:
   <a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
 </p>
 
-<h4 align="center">🗄️ Databases & Caching</h4>
+<h4 align="center">⚡ Caching</h4>
 <p align="center">
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
 </p>
 
-<h4 align="center">💻 Languages, OS & Web Servers</h4>
+<h4 align="center">💻 Scripting, OS & Web Servers</h4>
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
   <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
