@@ -1,6 +1,8 @@
+<h1 align="center">Hi there, I'm Abu Hurairah! 👋</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abu+Hurairah!+%F0%9F%91%8B;DevOps+%26+MLOps+Engineer+%E2%9A%99%EF%B8%8F;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+%26+MLOps+Engineer+%E2%9A%99%EF%B8%8F;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
