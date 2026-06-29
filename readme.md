@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Orchestrating+AI+brains+in+production+%F0%9F%A7%A0;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ spec:
   pronouns: he/him
   currentFocus:
     projectType: "AI-powered DevOps & MLOps Pipelines"
-    learning: "MLOps patterns & feature stores"
+    learning: "Teaching neural networks how to navigate Kubernetes & scale gracefully"
   philosophies:
     - "Infrastructure as Code always"
     - "If you do it twice, automate it"
