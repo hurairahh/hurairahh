@@ -208,7 +208,7 @@ $ hurairahh-pipeline --run --env=production
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=4000&color=ff79c6&center=true&vCenter=true&width=750&height=45&lines=“May+the+Force+be+with+you.”+—+Star+Wars;“I'm+going+to+make+him+an+offer+he+can't+refuse.”+—+The+Godfather;“Carpe+diem.+Seize+the+day%2C+boys.”+—+Dead+Poets+Society;“Here's+looking+at+you%2C+kid.”+—+Casablanca;“To+infinity+and+beyond!”+—+Toy+Story;“Houston%2C+we+have+a+problem.”+—+Apollo+13;“There's+no+place+like+home.”+—+The+Wizard+of+Oz" alt="Movie Quote" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=15000&deleteDuration=1&color=ff79c6&center=true&vCenter=true&width=750&height=45&lines=“May+the+Force+be+with+you.”+—+Star+Wars;“I'm+going+to+make+him+an+offer+he+can't+refuse.”+—+The+Godfather;“Carpe+diem.+Seize+the+day%2C+boys.”+—+Dead+Poets+Society;“Here's+looking+at+you%2C+kid.”+—+Casablanca;“To+infinity+and+beyond!”+—+Toy+Story;“Houston%2C+we+have+a+problem.”+—+Apollo+13;“There's+no+place+like+home.”+—+The+Wizard+of+Oz" alt="Movie Quote" />
   </a>
 </p>
 
