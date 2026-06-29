@@ -123,14 +123,8 @@ spec:
 <p align="center">
   <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
-  <a href="https://github.com/lensapp/lens" target="_blank"><img src="https://img.shields.io/badge/Lens-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Lens" /></a>
-</p>
-
-<h4 align="center">🐙 GitOps & Package Managers</h4>
-<p align="center">
-  <a href="https://argo-cd.readthedocs.io" target="_blank"><img src="https://img.shields.io/badge/Argo_CD-%23EF7B45.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" /></a>
   <a href="https://helm.sh" target="_blank"><img src="https://img.shields.io/badge/Helm_Charts-%230F162D.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm Charts" /></a>
-  <a href="https://www.gitops.tech" target="_blank"><img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="GitOps" /></a>
+  <a href="https://github.com/lensapp/lens" target="_blank"><img src="https://img.shields.io/badge/Lens-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Lens" /></a>
 </p>
 
 <h4 align="center">🔄 CI/CD & Automation</h4>
@@ -138,6 +132,7 @@ spec:
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
   <a href="https://gitlab.com" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
   <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
+  <a href="https://argo-cd.readthedocs.io" target="_blank"><img src="https://img.shields.io/badge/Argo_CD-%23EF7B45.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" /></a>
   <a href="https://www.ansible.com" target="_blank"><img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
   <a href="https://bitbucket.org" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
