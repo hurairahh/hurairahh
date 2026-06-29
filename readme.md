@@ -109,7 +109,6 @@ $ hurairahh-pipeline --run --env=production
   <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
   <a href="https://www.ansible.com" target="_blank"><img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
   <a href="https://bitbucket.org" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" /></a>
-  <a href="https://bitbucket.org/product/features/pipelines" target="_blank"><img src="https://img.shields.io/badge/Bitbucket_Pipelines-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
