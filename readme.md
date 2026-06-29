@@ -44,19 +44,18 @@ spec:
     monitoring: active
 ```
 
----
+### 💻 Pipeline Terminal Output
 
-### ⚙️ My Deployment Lifecycle (CI/CD Pipeline)
+```bash
+$ hurairahh-pipeline --run --env=production
 
-```text
-[ Plan & Code ] ──> [ CI/CD Automation ] ──> [ Artifact Containerization ] ──> [ Orchestration ] ──> [ Monitoring & Feedback ]
-       │                     │                           │                           │                         │
-   ┌───┴───┐             ┌───┴───┐                   ┌───┴───┐                   ┌───┴───┐                 ┌───┴───┐
-   │ Python│             │GitHub │                   │ Docker│                   │ AWS / │                 │Grafana│
-   │ Bash  │             │Actions│                   │ Helm  │                   │ K8s   │                 │Prom   │
-   └───────┘             └───────┘                   └───────┘                   └───────┘                 └───────┘
+▸ [1/4] 🚀 Initializing Abu Hurairah's profile... [OK]
+▸ [2/4] 🛠️ Spinning up Kubernetes clusters & Terraform plans... [OK]
+▸ [3/4] 🧠 Training & tracking models with MLflow & PyTorch... [OK]
+▸ [4/4] 📚 Loading "Dostoevsky philosophy" package into brain... [OK]
+
+✔ System status: Active, stable, and ready to deploy!
 ```
-
 ---
 
 ### ⚡ Tech Stack
