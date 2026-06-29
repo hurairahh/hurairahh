@@ -193,25 +193,16 @@ $ hurairahh-pipeline --run --env=production
 
 ---
 
-<p align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">🎬 Cinema Marquee</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <sub><i>A new classic line every 10 seconds</i></sub><br><br>
-          <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=16&duration=1&pause=10000&deleteDuration=1&color=FFD700&center=true&vCenter=true&width=750&height=45&lines=%22May+the+Force+be+with+you.%22+-+Star+Wars;%22I'm+going+to+make+him+an+offer+he+can't+refuse.%22+-+The+Godfather;%22Carpe+diem.+Seize+the+day%2C+boys.%22+-+Dead+Poets+Society;%22Here's+looking+at+you%2C+kid.%22+-+Casablanca;%22To+infinity+and+beyond!%22+-+Toy+Story;%22Houston%2C+we+have+a+problem.%22+-+Apollo+13;%22There's+no+place+like+home.%22+-+The+Wizard+of+Oz" alt="Movie Quote" />
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</p>
+<div align="center">
+
+### 🎬 Cinema Marquee
+<sub><i>A new classic line every 10 seconds</i></sub>
+<br><br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=10000&deleteDuration=1&color=00F5FF&center=true&vCenter=true&width=750&height=50&lines=%22May+the+Force+be+with+you.%22+-+Star+Wars;%22I'm+going+to+make+him+an+offer+he+can't+refuse.%22+-+The+Godfather;%22Carpe+diem.+Seize+the+day%2C+boys.%22+-+Dead+Poets+Society;%22Here's+looking+at+you%2C+kid.%22+-+Casablanca;%22To+infinity+and+beyond!%22+-+Toy+Story;%22Houston%2C+we+have+a+problem.%22+-+Apollo+13;%22There's+no+place+like+home.%22+-+The+Wizard+of+Oz" alt="Movie Quote" />
+</a>
+
+</div>
 
 ---
 
