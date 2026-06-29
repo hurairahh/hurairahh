@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%9A%99%EF%B8%8F;I+also+build+web+applications+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%9A%99%EF%B8%8F;I+also+build+web+applications+%26+Design%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ I enjoy working at the intersection of automation, cloud platforms, container or
 
 My focus is building systems that deploy faster, scale reliably, and recover automatically.
 
-I also build web applications. 
+I also build web applications and design(UIUX Designer). 
 
 When I am not writing Terraform configs or tweaking automated pipelines, you'll find me:
 - 🎬 Watching movies
