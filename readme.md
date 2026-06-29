@@ -75,35 +75,37 @@ $ hurairahh-pipeline --run --env=production
 
 #### ☁️ Cloud & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-%237F4CC4?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat" alt="CloudFormation" />
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+  <a href="https://www.digitalocean.com" target="_blank"><img src="https://skillicons.dev/icons?i=do" alt="DigitalOcean" /></a>
+  <a href="https://www.cloudflare.com" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
 </p>
 
 #### 🐳 Containers & Orchestration
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0F162D?style=flat&logo=helm&logoColor=white" alt="Helm" />
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://helm.sh" target="_blank"><img src="https://skillicons.dev/icons?i=helm" alt="Helm" /></a>
 </p>
 
 #### 🔄 CI/CD & Automation
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
+  <a href="https://www.ansible.com" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" /></a>
 </p>
 
-#### 📊 Monitoring & Observability
+#### 📊 Monitoring & Web Servers
 <p align="left">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+  <a href="https://prometheus.io" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
+  <a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
 </p>
 
 #### 💻 Programming & Scripting
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
 </p>
 
 ---
