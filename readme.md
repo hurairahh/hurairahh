@@ -17,6 +17,17 @@
 
 ---
 
+### 🌌 Bio
+
+I am a **DevOps Engineer & Cloud Enthusiast** who loves building resilient infrastructure. Currently, I am focusing on **MLOps**—specifically, *teaching neural networks how to navigate Kubernetes and scale gracefully in production*. 
+
+When I am not writing Terraform configs or tweaking automated pipelines, you'll find me:
+- 🎬 Devouring thought-provoking movies
+- 🎧 Listening to music
+- 📚 Pondering Fyodor Dostoevsky's literature
+
+---
+
 ### 📂 spec.yaml
 
 ```yaml
