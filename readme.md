@@ -73,39 +73,49 @@ $ hurairahh-pipeline --run --env=production
 
 ### ⚡ Tech Stack
 
-#### ☁️ Cloud & Infrastructure
-<p align="left">
+<h4 align="center">☁️ Cloud & Infrastructure</h4>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
   <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
+  <a href="https://www.pulumi.com" target="_blank"><img src="https://skillicons.dev/icons?i=pulumi" alt="Pulumi" /></a>
   <a href="https://www.digitalocean.com" target="_blank"><img src="https://skillicons.dev/icons?i=do" alt="DigitalOcean" /></a>
   <a href="https://www.cloudflare.com" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
 </p>
 
-#### 🐳 Containers & Orchestration
-<p align="left">
+<h4 align="center">🐳 Containers & Web Servers</h4>
+<p align="center">
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
   <a href="https://helm.sh" target="_blank"><img src="https://skillicons.dev/icons?i=helm" alt="Helm" /></a>
+  <a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://httpd.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=apache" alt="Apache" /></a>
 </p>
 
-#### 🔄 CI/CD & Automation
-<p align="left">
+<h4 align="center">🔄 CI/CD & Automation</h4>
+<p align="center">
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://gitlab.com" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" /></a>
   <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
   <a href="https://www.ansible.com" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 </p>
 
-#### 📊 Monitoring & Web Servers
-<p align="left">
+<h4 align="center">📊 Data & Monitoring</h4>
+<p align="center">
   <a href="https://prometheus.io" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /></a>
   <a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
 </p>
 
-#### 💻 Programming & Scripting
-<p align="left">
+<h4 align="center">💻 Programming & Scripting</h4>
+<p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
   <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go (Golang)" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 </p>
 
 ---
