@@ -73,56 +73,73 @@ $ hurairahh-pipeline --run --env=production
 
 ### ⚡ Tech Stack
 
-<h4 align="center">☁️ Cloud & Infrastructure</h4>
+<h4 align="center">☁️ Cloud Providers</h4>
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
-  <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
-  <a href="https://www.digitalocean.com" target="_blank"><img src="https://skillicons.dev/icons?i=digitalocean" alt="DigitalOcean" /></a>
-  <a href="https://www.cloudflare.com" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
-  <a href="https://www.vagrantup.com" target="_blank"><img src="https://skillicons.dev/icons?i=vagrant" alt="Vagrant" /></a>
-  <a href="https://yaml.org" target="_blank"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
+  <a href="https://www.digitalocean.com" target="_blank"><img src="https://img.shields.io/badge/Digital_Ocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" /></a>
+  <a href="https://www.cloudflare.com" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
 </p>
 
-<h4 align="center">🐳 Containers, Orchestration & GitOps</h4>
+<h4 align="center">🏗️ Infrastructure as Code (IaC) & Configuration</h4>
 <p align="center">
-  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
-  <a href="https://argo-cd.readthedocs.io" target="_blank"><img src="https://skillicons.dev/icons?i=argocd" alt="ArgoCD" /></a>
-  <a href="https://helm.sh" target="_blank"><img src="https://img.shields.io/badge/Helm_Charts-0F162D?style=for-the-badge&logo=helm&logoColor=white" alt="Helm Charts" /></a>
+  <a href="https://www.terraform.io" target="_blank"><img src="https://img.shields.io/badge/Terraform-%237F4CC4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /></a>
+  <a href="https://www.vagrantup.com" target="_blank"><img src="https://img.shields.io/badge/Vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant" /></a>
+  <a href="https://yaml.org" target="_blank"><img src="https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" /></a>
+</p>
+
+<h4 align="center">🐳 Containerization & Orchestration</h4>
+<p align="center">
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
   <a href="https://github.com/lensapp/lens" target="_blank"><img src="https://img.shields.io/badge/Lens-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Lens" /></a>
+</p>
+
+<h4 align="center">🐙 GitOps & Package Managers</h4>
+<p align="center">
+  <a href="https://argo-cd.readthedocs.io" target="_blank"><img src="https://img.shields.io/badge/Argo_CD-%23EF7B45.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" /></a>
+  <a href="https://helm.sh" target="_blank"><img src="https://img.shields.io/badge/Helm_Charts-%230F162D.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm Charts" /></a>
   <a href="https://www.gitops.tech" target="_blank"><img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="GitOps" /></a>
 </p>
 
-<h4 align="center">🔄 CI/CD & Automation</h4>
+<h4 align="center">🔄 CI/CD & Version Control</h4>
 <p align="center">
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
-  <a href="https://gitlab.com" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" /></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
-  <a href="https://www.ansible.com" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://bitbucket.org" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
-  <a href="https://bitbucket.org/product/features/pipelines" target="_blank"><img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+  <a href="https://gitlab.com" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
+  <a href="https://www.ansible.com" target="_blank"><img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
+  <a href="https://bitbucket.org" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" /></a>
+  <a href="https://bitbucket.org/product/features/pipelines" target="_blank"><img src="https://img.shields.io/badge/Bitbucket_Pipelines-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
-<h4 align="center">📊 Data, Quality & Monitoring</h4>
+<h4 align="center">🛡️ Quality Gates & Security</h4>
 <p align="center">
-  <a href="https://prometheus.io" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /></a>
-  <a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
-  <a href="https://www.sonarqube.org" target="_blank"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" /></a>
-  <a href="https://sonarcloud.io" target="_blank"><img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" /></a>
-  <a href="https://www.sonatype.com" target="_blank"><img src="https://img.shields.io/badge/Sonatype_Nexus-3F5B75?style=for-the-badge&logo=sonatype&logoColor=white" alt="Sonatype Nexus" /></a>
+  <a href="https://www.sonarqube.org" target="_blank"><img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" /></a>
+  <a href="https://sonarcloud.io" target="_blank"><img src="https://img.shields.io/badge/SonarCloud-%23F3702A.svg?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" /></a>
+  <a href="https://www.sonatype.com" target="_blank"><img src="https://img.shields.io/badge/Sonatype_Nexus-%233F5B75.svg?style=for-the-badge&logo=sonatype&logoColor=white" alt="Sonatype Nexus" /></a>
 </p>
 
-<h4 align="center">💻 Programming & Scripting</h4>
+<h4 align="center">📈 Monitoring & Observability</h4>
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
-  <a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go (Golang)" /></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://prometheus.io" target="_blank"><img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
+</p>
+
+<h4 align="center">🗄️ Databases & Caching</h4>
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
+</p>
+
+<h4 align="center">💻 Languages, OS & Web Servers</h4>
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+  <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://www.nginx.com" target="_blank"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
+  <a href="https://httpd.apache.org" target="_blank"><img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" /></a>
 </p>
 
 ---
