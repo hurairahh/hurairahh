@@ -76,18 +76,23 @@ $ hurairahh-pipeline --run --env=production
 <h4 align="center">☁️ Cloud & Infrastructure</h4>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
   <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /></a>
   <a href="https://www.digitalocean.com" target="_blank"><img src="https://skillicons.dev/icons?i=digitalocean" alt="DigitalOcean" /></a>
   <a href="https://www.cloudflare.com" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
+  <a href="https://www.vagrantup.com" target="_blank"><img src="https://skillicons.dev/icons?i=vagrant" alt="Vagrant" /></a>
+  <a href="https://yaml.org" target="_blank"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" /></a>
 </p>
 
-<h4 align="center">🐳 Containers & Web Servers</h4>
+<h4 align="center">🐳 Containers, Orchestration & GitOps</h4>
 <p align="center">
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://argo-cd.readthedocs.io" target="_blank"><img src="https://skillicons.dev/icons?i=argocd" alt="ArgoCD" /></a>
+  <a href="https://helm.sh" target="_blank"><img src="https://img.shields.io/badge/Helm_Charts-0F162D?style=for-the-badge&logo=helm&logoColor=white" alt="Helm Charts" /></a>
+  <a href="https://github.com/lensapp/lens" target="_blank"><img src="https://img.shields.io/badge/Lens-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Lens" /></a>
+  <a href="https://www.gitops.tech" target="_blank"><img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="GitOps" /></a>
 </p>
 
 <h4 align="center">🔄 CI/CD & Automation</h4>
@@ -97,14 +102,19 @@ $ hurairahh-pipeline --run --env=production
   <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
   <a href="https://www.ansible.com" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://bitbucket.org" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
+  <a href="https://bitbucket.org/product/features/pipelines" target="_blank"><img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines" /></a>
 </p>
 
-<h4 align="center">📊 Data & Monitoring</h4>
+<h4 align="center">📊 Data, Quality & Monitoring</h4>
 <p align="center">
   <a href="https://prometheus.io" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /></a>
   <a href="https://grafana.com" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://www.sonarqube.org" target="_blank"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" /></a>
+  <a href="https://sonarcloud.io" target="_blank"><img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" /></a>
+  <a href="https://www.sonatype.com" target="_blank"><img src="https://img.shields.io/badge/Sonatype_Nexus-3F5B75?style=for-the-badge&logo=sonatype&logoColor=white" alt="Sonatype Nexus" /></a>
 </p>
 
 <h4 align="center">💻 Programming & Scripting</h4>
