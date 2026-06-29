@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+%26+Engineer+%E2%9A%99%EF%B8%8F;Automating+AI+%26+MLOps+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%9A%99%EF%B8%8F;Automating+AI+%26+pipelines+%F0%9F%A4%96;Pondering+Dostoevsky+by+night+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌌 Bio
+### 🌌 About Me
 
 I am a **DevOps Engineer and Cloud Enthusiast** who loves building resilient infrastructure and automating intelligent, AI-powered deployment lifecycles. Currently exploring the intersection of DevOps and ML through MLOps. I'm always listening to music while creating and building. 
 
