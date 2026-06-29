@@ -195,12 +195,6 @@ $ hurairahh-pipeline --run --env=production
 > *“But to go wrong in one's own way is better than to go right in someone else's.”*  
 > — **Fyodor Dostoevsky, Crime and Punishment**
 
-<br>
-
-| 📚 Reading | 🎬 Movies | 🎵 Music |
-| :---: | :---: | :---: |
-| **Dostoevsky Enthusiast** <br> *Pondering existential details and character depths* | **Cinephile** <br> *Sucker for great scripts, cinematography, and storytelling* | **Daily Soundtrack** <br> *Always got something playing while debugging pipelines* |
-
 ---
 
 <p align="center">
