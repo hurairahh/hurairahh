@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/thehurairahh" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://letterboxd.com/hurairahh" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-FF8000?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
