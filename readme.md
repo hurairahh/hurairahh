@@ -29,7 +29,7 @@ I am a **DevOps Engineer and Cloud Enthusiast** currently exploring the intersec
 
 My focus is building systems that deploy faster, scale reliably, and recover automatically.
 
-I also build web applications and design (UIUX Designer).
+I also build web applications and design (UIUX Designer). 
 
 I'm always listening to music while creating and building. 
 

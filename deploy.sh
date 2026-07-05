@@ -9,7 +9,7 @@ if [ ! -d ".git" ]; then
     exit 1
 fi
 
-# Add all files
+# Add all files 
 echo "📁 Adding files to git..."
 git add .
 
