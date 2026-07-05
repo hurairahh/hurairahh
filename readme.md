@@ -35,7 +35,7 @@ I'm always listening to music while creating and building.
 
 When I am not writing Terraform configs or tweaking automated pipelines, you'll find me:
 - 🎬 Watching movies
-- 📚 Reading Dostoevsky
+- 📚 Reading Dostoevsky 
 
 
 > *“But to go wrong in one's own way is better than to go right in someone else's.”*  
