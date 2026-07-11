@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abu Hurairah! 👋</h1>   
-  
+   
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=a277ff&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Enthusiast+%E2%9A%99%EF%B8%8F;I+also+build+web+applications+%26+Design+%F0%9F%92%BB" alt="Typing SVG" />
