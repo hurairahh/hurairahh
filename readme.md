@@ -27,8 +27,6 @@
 
 I am a **DevOps Engineer and Cloud Enthusiast** currently exploring the intersection of DevOps and ML through **MLOps**.  I enjoy working at the intersection of automation, cloud platforms and container orchestration
 
-My focus is building systems that deploy faster, scale reliably, and recover automatically.
-
 I also build web applications and design (UIUX Designer). 
 
 I'm always listening to music while creating and building. 
