@@ -25,7 +25,7 @@
 
 ### 🌌 About Me
 
-I am a **DevOps Engineer and Cloud Enthusiast**. I enjoy working at the intersection of automation, cloud platforms and container orchestration
+I am a ** Associate DevOps Engineer and Cloud Enthusiast**. I enjoy working at the intersection of automation, cloud platforms and container orchestration
 
 I also build web applications and design (UIUX Designer). 
 
